@@ -39,6 +39,7 @@ hr {
 .brand,
 .address-bar {
     display: none;
+    background: url('../img/IMG_20160902_215611.jpg') no-repeat center center fixed;
 }
 
 .navbar-brand {
