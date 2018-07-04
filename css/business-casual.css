@@ -6,7 +6,7 @@
 
 body {
     font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: url('../img/Artboard 1tan.png') no-repeat center center fixed;
+    background: linear-gradient(#FACCBD, #F2AB94);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
